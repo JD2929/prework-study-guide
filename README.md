@@ -26,3 +26,6 @@ N/A
 ## License
 
 MIT default license when opened new project. 
+
+## Deployment
+Deployed on July 26,2023
